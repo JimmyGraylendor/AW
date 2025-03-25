@@ -1,3 +1,5 @@
+#© (CC) JimmyGraylendor
+
 import time
 import sys
 
