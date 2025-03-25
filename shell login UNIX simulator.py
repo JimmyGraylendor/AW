@@ -1,3 +1,5 @@
+#© (CC) JimmyGraylendor
+
 auth = False
 
 nombres = ["us22", "alum11", "us11", "prof4"]
